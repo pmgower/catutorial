@@ -1,0 +1,16 @@
+  [1m[35m (93.2ms)[0m  [1m[35mCREATE DATABASE "Catutorial_development" ENCODING = 'unicode'[0m
+  [1m[35m (29.9ms)[0m  [1m[35mCREATE DATABASE "Catutorial_test" ENCODING = 'unicode'[0m
+Started GET "/" for 127.0.0.1 at 2022-01-26 16:21:19 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/paul/.asdf/installs/ruby/3.1.0/lib/ruby/gems/3.1.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/paul/.asdf/installs/ruby/3.1.0/lib/ruby/gems/3.1.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 878)
+Completed 200 OK in 10ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 7926)
+
+
+Started GET "/" for ::1 at 2022-01-26 16:22:53 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/paul/.asdf/installs/ruby/3.1.0/lib/ruby/gems/3.1.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/paul/.asdf/installs/ruby/3.1.0/lib/ruby/gems/3.1.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 773)
+Completed 200 OK in 4ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 6618)
+
+
